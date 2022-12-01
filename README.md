@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arbazargani
-- 👀 I’m interested in Web, Dev & COFFE!
+- 👀 I’m interested in Web, Dev & COFFEE!
 - currently coding most times of my day ;-} & looking to collaborate on nothing & everything!
 - I use most of these stuffs everyday
 - ☕ coffe first!
