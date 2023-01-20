@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @arbazargani
 - 👀 I’m interested in Web, Dev & COFFEE!
 - currently coding most times of my day ;-} & looking to collaborate on nothing & everything!
-- I use most of these stuffs everyday
-- ☕ coffe first!
+I use most of these stuffs everyday
+- ☕ coffe
 - <img src="https://github.com/primer-studio/assets/blob/main/images/laravel.png?raw=true" width="21" align="top">&nbsp; Laravel framework
 - <img src="https://github.com/primer-studio/assets/blob/main/images/livewire.png?raw=true" width="21" align="top">&nbsp; Livewire framework
 - <img src="https://github.com/primer-studio/assets/blob/main/images/jetstream.png?raw=true" width="21" align="top">&nbsp; Laravel Jetstream
