@@ -6,7 +6,6 @@ I use most of these stuffs everyday
 - ☕ coffe
 - <img src="https://github.com/primer-studio/assets/blob/main/images/laravel.png?raw=true" width="21" align="top">&nbsp; Laravel framework
 - <img src="https://github.com/primer-studio/assets/blob/main/images/livewire.png?raw=true" width="21" align="top">&nbsp; Livewire framework
-- <img src="https://github.com/primer-studio/assets/blob/main/images/jetstream.png?raw=true" width="21" align="top">&nbsp; Laravel Jetstream
 - 📫 reach me from info@arbazargani.ir
 
 <!---
